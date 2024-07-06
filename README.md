@@ -1,0 +1,2 @@
+# automatic-slider
+ in js
